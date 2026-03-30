@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on Android apps using Jetpack Compose  <br>🤝 I’m looking to collaborate on Android & MERN stack projects  <br>🛠️ I’m looking for help with system design & scalable architecture  <br>📚 I’m currently learning advanced Android & backend optimization  <br>💬 Ask me about Android, Jetpack Compose, MERN stack  <br>⚡ Fun fact: I build both mobile and web apps end-to-end  
-
+👋 Hey, I’m Guresh Challa — I build things that people actually use  <br>📱 Android Developer crafting modern apps with Jetpack Compose  <br>🌐 Full-stack developer working with the MERN stack  <br>⚡ I focus on clean architecture, performance, and real-world impact  <br>🧠 Currently leveling up in system design & scalable systems  <br>🤝 Open to collaborating on meaningful and impactful projects  <br>💬 Ask me about Android, MERN, or building end-to-end apps  <br>🚀 Fun fact: I can take an idea from zero → production (mobile + web)
 
 
 ## 🌐 Socials:
